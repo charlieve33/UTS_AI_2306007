@@ -7,16 +7,15 @@ aturan tugas: Buat ringkasan tujuan, metode AI yang digunakan dan manfaatnya. Ta
 
 # Jawaban:
 # Pertanyaan 1: sistem pakar menggunakan library experta dan frozendict (diambil dari modul praktikum dengan kasus praktikum yang berbeda). 
-Alur inferensinya sebagai berikut:
-A --> Daun menguning, B--> bercak hitam, C--> Daun berlubang, D --> Tanaman layu.
-jika A & B --> B
-jika A & C --> C
-jika A & D --> A
-jika D & B --> D
-penjelasan: 
-jika daun menguning dan bercak hitam maka daun bercak hitam akibat jamur
-jika daun menguning dan daun berlubang maka daun berlubang akibat ulat
-jika daun menguning dan tanaman layu maka daun menguning akibat kutu daun
-jika tanaman layu dan bercak hitam maka tanaman layu akibat thrips
+Alur inferensinya sebagai berikut: A --> Daun menguning, B--> bercak hitam, C--> Daun berlubang, D --> Tanaman layu.
+- jika A & B --> B
+- jika A & C --> C
+- jika A & D --> A
+- jika D & B --> D
+penjelasan:
+- jika daun menguning dan bercak hitam maka daun bercak hitam akibat jamur.
+- jika daun menguning dan daun berlubang maka daun berlubang akibat ulat
+- jika daun menguning dan tanaman layu maka daun menguning akibat kutu daun
+- jika tanaman layu dan bercak hitam maka tanaman layu akibat thrips
 
 # Pertanyaan 2:
