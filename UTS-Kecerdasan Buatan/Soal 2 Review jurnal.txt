@@ -1,0 +1,70 @@
+Soal 2 Review jurnal
+
+a. Ringkasan: 
+Tujuan utama dari pengembangan sistem pakar dalam pertanian ini ialah untuk membantu petani dalam membuat keputusan yang lebih baik dalam berbagai aspek pengelolaan tanaman. Ini mencakup pengaturan tanah, pemilihan benih, manajemen hara, pengendalian hama, dan manajemen irigasi untuk meningkatkan hasil pertanian dan efisiensi biaya.
+
+Metode AI yang digunakan dalam sistem pakar ini meliputi:
+1. Aturan Produksi (Production Rules): Sistem pakar biasanya mengandalkan aturan "jika-maka" untuk menyimpan pengetahuan dari para ahli.
+2. Engine Inferensi: Ini digunakan untuk menerapkan pengetahuan yang ada untuk memberikan nasihat dan rekomendasi kepada petani.
+3. Basis Pengetahuan: Mengumpulkan informasi dari penelitian dan pengalaman ahli untuk digunakan dalam sistem.
+4. Dukungan Keputusan (Decision Support Systems - DSS): Sistem ini dirancang untuk membantu pengambilan keputusan, dengan mempertimbangkan berbagai faktor dan variabel yang relevan.
+
+Manfaatnya diantara lain sebagai berrikut:
+1. Peningkatan Produktivitas, Sistem pakar akan membantu petani dalam membuat keputusan yang lebih tepat, yang dapat meningkatkan hasil panen.
+2. Penghematan Biaya yakni dengan saran yang tepat mengenai penggunaan pupuk, pestisida, dan irigasi, petani dapat mengurangi biaya dan meningkatkan margin keuntungan.
+3. Penyebaran Pengetahuan karena sistem ini berfungsi sebagai jembatan informasi antara penelitian dan praktik lapangan, memastikan bahwa pengetahuan terbaru sampai ke petani.
+4. Pemecahan Masalah yang Efektif ini akan membantu para petani untuk mengidentifikasi dan menangani masalah seperti hama atau penyakit tanaman secara lebih cepat dan efisien.
+5. Keberlanjutan yakni dengan memberikan rekomendasi berbasis data dan penelitian, sistem pakar dapat membantu petani dalam membuat keputusan yang lebih ramah lingkungan.
+Sistem pakar ini bisa menjadi alat penting dalam modernisasi pertanian dengan menggabungkan pengetahuan ahli dan teknologi untuk membantu para petani dalam mengelola sumber daya mereka dengan lebih baik.
+
+b. Ide pengembangan keberlanjutannya: "Antarmuka Pengguna yang Interaktif"
+
+- Aplikasi Mobile: Mengembangkan aplikasi mobile yang memungkinkan petani untuk mengakses sistem pakar secara mudah, dengan antarmuka yang ramah pengguna dan fitur interaktif.
+- Chatbot Cerdas: Mengintegrasikan chatbot untuk memberikan jawaban instan atas pertanyaan umum yang diajukan oleh petani, sehingga meningkatkan aksesibilitas informasi.
+- Platform Sosial: Membuat forum atau platform sosial di dalam aplikasi untuk memfasilitasi kolaborasi antara petani, ahli pertanian, dan peneliti, sehingga mereka dapat berbagi informasi dan pengalaman.
+- Program Pendidikan: Menyediakan modul pembelajaran dalam aplikasi dengan kursus pendek tentang praktik pertanian terbaik dan inovasi terbaru untuk meningkatkan keterampilan petani.
+
+Dengan pendekatan ini, sistem pakar akan menjadi alat yang lebih komprehensif dan efektif dalam membantu petani, serta berkontribusi pada peningkatan produktivitas dan keberlanjutan di sektor pertanian.
+
+c. Aplikasi Serupa yang bisa di terapkan dilingkungan sekitar
+Aplikasi: "FarmAssist: Platform Pendukung Pertanian Berkelanjutan"
+Deskripsi Umum:
+FarmAssist adalah aplikasi mobile yang dikembangkan untuk mendukung petani lokal dalam mengelola praktik pertanian berkelanjutan. Aplikasi ini akan menyediakan informasi dan alat untuk meningkatkan efektivitas pertanian sambil menjaga keseimbangan lingkungan serta meningkatkan produktivitas dan kualitas hasil pertanian.
+
+Fitur Utama:
+1. Katalog Tanaman dan Teknik Budidaya:
+- Menyediakan informasi rinci tentang berbagai jenis tanaman yang cocok untuk area lokal, termasuk panduan budidaya, teknik penanaman, dan pemeliharaan.
+2. Panduan Pertanian Berkelanjutan:
+- Menawarkan berbagai praktik pertanian berkelanjutan, seperti rotasi tanaman, penggunaan pupuk organik, dan pengendalian hama terpadu (PHT) yang ramah lingkungan.
+3. Sistem Pemantauan dan Diagnosa Tanaman:
+- Fitur deteksi awal penyakit tanaman atau hama dengan memanfaatkan teknologi gambar dan analisis untuk memberikan rekomendasi cepat kepada pengguna.
+4. Integrasi Kalender Pertanian:
+- Membantu petani merencanakan aktivitas pertanian mereka dengan kalender penanaman, waktu panen, dan jadwal pemupukan berdasarkan iklim lokal dan pola cuaca.
+5. Pelacakan Input Pertanian:
+- Mengizinkan petani untuk melacak penggunaan pupuk, pestisida, dan air untuk membantu mereka menganalisis efisiensi dan dampak lingkungan dari praktik mereka.
+6. Koneksi dengan Penyuluh Pertanian:
+- Menyediakan platform bagi petani untuk terhubung dan berkonsultasi dengan penyuluh atau ahli pertanian secara langsung untuk mendapatkan saran profesional terkait masalah yang mereka hadapi.
+7. Kegiatan Edukasi dan Workshop:
+- Menginformasikan petani tentang kegiatan pelatihan dan workshop yang diadakan di komunitas mereka terkait pertanian berkelanjutan dan inovasi pertanian terbaru.
+8. Komunitas dan Pertukaran Informasi:
+- Membuat forum komunitas di mana petani dapat berdiskusi, berbagi pengalaman, atau memberikan tips dan trik kepada satu sama lain.
+
+Rencana Pengembangan:
+- Tahap 1: Penelitian dan Analisis Kebutuhan
+- Melakukan kajian dan diskusi dengan petani setempat untuk memahami tantangan yang mereka hadapi dan fitur yang dapat membantu memecahkan masalah tersebut.
+- Tahap 2: Pengembangan Prototip
+- Membuat versi awal aplikasi dengan fitur-fitur inti, termasuk catalog tanaman, panduan budidaya, dan sistem pemantauan.
+- Tahap 3: Uji Coba Lapangan
+- Mengundang sejumlah petani untuk menggunakan aplikasi dalam kegiatan pertanian sehari-hari mereka dan memberikan umpan balik terkait pengalaman pengguna.
+- Tahap 4: Peluncuran Resmi
+- Memperkenalkan aplikasi ke masyarakat luas setelah menyempurnakan fitur berdasarkan umpan balik pengguna selama fase uji coba.
+- Tahap 5: Pembaruan dan Pengembangan Berkelanjutan
+- Melakukan pembaruan rutin untuk menambahkan fitur baru dan mengupdate konten agar tetap relevan dengan perubahan dalam praktik pertanian.
+
+Manfaat untuk Komunitas:
+- Meningkatkan pengetahuan petani tentang praktik pertanian berkelanjutan yang dapat meningkatkan hasil panen sekaligus melindungi lingkungan.
+- Menyediakan alat bagi petani untuk mengelola dan menganalisis praktik pertanian mereka sehingga dapat lebih efisien dan ramah lingkungan.
+- Memperkuat hubungan antara petani, penyuluh pertanian, dan komunitas lokal untuk meningkatkan kolaborasi dalam pengembangan pertanian.
+- Mengedukasi petani mengenai pentingnya menjaga keseimbangan antara produksi pertanian dan kelestarian lingkungan.
+
+Dengan adanya aplikasi FarmAssist, ini diharapkan dapat memenuhi kebutuhan informasi dan dukungan teknis para petani lokal, mendorong mereka untuk mengadopsi praktik pertanian yang lebih berkelanjutan dan menghasilkan panen yang berkualitas tinggi.
